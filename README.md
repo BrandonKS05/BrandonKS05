@@ -1,14 +1,12 @@
 <!-- put 15351.jpg next to this file in your profile repo root -->
 <!--
-  landscape art → full-width banner (below) reads big.
-  if you switch to a tall/portrait piece later, you can go back to a 2-column
-  table: wide left td + img width="420" valign="top"
+  banner width: nudge the % up/down if you want it larger/smaller
 -->
 <table cellspacing="0" cellpadding="20" border="0" bgcolor="#161b22" width="100%">
 <tr>
 <td align="center">
 
-<img src="./15351.jpg" width="100%" alt="" />
+<img src="./15351.jpg" width="78%" alt="" />
 
 </td>
 </tr>
