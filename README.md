@@ -1,16 +1,15 @@
-## Hi there 👋
+# brandon lee
 
-<!--
-**BrandonKS05/BrandonKS05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+cs + math @ vanderbilt '27
 
-Here are some ideas to get you started:
+## languages
+python · java · c++ · javascript · typescript · c · go · html/css · sql
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## frameworks & libraries
+react · next.js · node.js · express · spring boot · tailwindcss · flask · angular · discord.py
+
+## databases & infra
+mongodb · postgresql · redis · mysql · sqlite · firebase · supabase
+
+## tools & platforms
+azure · docker · vercel · nginx · oauth 2.0 · unix · git
