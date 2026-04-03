@@ -3,12 +3,15 @@
 <td><img src="https://raw.githubusercontent.com/BrandonKS05/BrandonKS05/main/15351.jpg" width="300"/></td>
 <td>
 
-languages: python, java, c++, javascript, typescript, c, go, html/css, sql
-frameworks: react, next.js, angular, node.js, express, spring boot, tailwindcss, flask, discord.py
-databases: mongodb, postgresql, redis, mysql, sqlite, firebase, supabase
-tools: azure, docker, vercel, nginx, oauth 2.0, unix, git
+<br>
+languages: python, java, c++, javascript, typescript, c, go, html/css, sql<br>
+frameworks: react, next.js, angular, node.js, express, spring boot, tailwindcss, flask, discord.py<br>
+databases: mongodb, postgresql, redis, mysql, sqlite, firebase, supabase<br>
+tools: azure, docker, vercel, nginx, oauth 2.0, unix, git<br>
 
-[portfolio](https://brandonnlee.com)
+<br>
+
+[portfolio](https://brandonlee.dev)
 
 </td>
 </tr>
