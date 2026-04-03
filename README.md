@@ -1,9 +1,9 @@
 <table>
 <tr>
-<td><img src="https://raw.githubusercontent.com/BrandonKS05/BrandonKS05/main/15351.jpg" width="300"/></td>
+<td><img src="https://raw.githubusercontent.com/BrandonKS05/BrandonKS05/main/15351.jpg" width="500"/></td>
 <td>
 
-<br>
+my stack<br>
 languages: python, java, c++, javascript, typescript, c, go, html/css, sql<br>
 frameworks: react, next.js, angular, node.js, express, spring boot, tailwindcss, flask, discord.py<br>
 databases: mongodb, postgresql, redis, mysql, sqlite, firebase, supabase<br>
