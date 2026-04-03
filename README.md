@@ -1,17 +1,43 @@
-<table>
+<!-- put 15351.png next to this file in your GitHub profile repo root -->
+<table cellspacing="0" cellpadding="20" border="0" bgcolor="#161b22">
 <tr>
-<td><img src="https://raw.githubusercontent.com/BrandonKS05/BrandonKS05/main/15351.jpg" width="500"/></td>
-<td>
+<td valign="middle" width="300">
 
-my stack<br>
-languages: python, java, c++, javascript, typescript, c, go, html/css, sql<br>
-frameworks: react, next.js, angular, node.js, express, spring boot, tailwindcss, flask, discord.py<br>
-databases: mongodb, postgresql, redis, mysql, sqlite, firebase, supabase<br>
-tools: azure, docker, vercel, nginx, oauth 2.0, unix, git<br>
+<img src="./15351.png" width="280" alt="" />
 
-<br>
+</td>
+<td valign="top">
 
-[portfolio](https://brandonlee.dev)
+<pre>
+brandonks05
+
+full-stack · systems · always shipping
+
+────────────────────────────────────────
+
+
+languages
+  python · java · c++ · javascript · typescript · c · go · html/css · sql
+
+frameworks
+  react · next.js · angular · node.js · express · spring boot
+  tailwindcss · flask · discord.py
+
+databases
+  mongodb · postgresql · redis · mysql · sqlite · firebase · supabase
+
+tools
+  azure · docker · vercel · nginx · oauth 2.0 · unix · git
+
+────────────────────────────────────────
+</pre>
+
+<p>
+  <a href="https://github.com/BrandonKS05">github</a>
+  &nbsp;·&nbsp;
+  <a href="https:brandonnlee.com">portfolio</a>
+  &nbsp;·&nbsp;
+</p>
 
 </td>
 </tr>
