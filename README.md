@@ -1,11 +1,18 @@
-<!-- put 15351.png next to this file in your GitHub profile repo root -->
-<table cellspacing="0" cellpadding="20" border="0" bgcolor="#161b22">
+<!-- put 15351.jpg next to this file in your profile repo root -->
+<!--
+  landscape art → full-width banner (below) reads big.
+  if you switch to a tall/portrait piece later, you can go back to a 2-column
+  table: wide left td + img width="420" valign="top"
+-->
+<table cellspacing="0" cellpadding="20" border="0" bgcolor="#161b22" width="100%">
 <tr>
-<td valign="middle" width="300">
+<td align="center">
 
-<img src="./15351.jpg" width="480" alt="" />
+<img src="./15351.jpg" width="100%" alt="" />
 
 </td>
+</tr>
+<tr>
 <td valign="top">
 
 <pre>
@@ -15,6 +22,7 @@ full-stack · systems · always shipping
 
 ────────────────────────────────────────
 
+my stack
 
 languages
   python · java · c++ · javascript · typescript · c · go · html/css · sql
@@ -33,10 +41,7 @@ tools
 </pre>
 
 <p>
-  <a href="https://github.com/BrandonKS05">github</a>
-  &nbsp;·&nbsp;
-  <a href="https:brandonnlee.com">portfolio</a>
-  &nbsp;·&nbsp;
+  <a href="https://YOUR_PORTFOLIO_URL">portfolio</a>
 </p>
 
 </td>
