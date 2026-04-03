@@ -1,20 +1,23 @@
 <!-- put 15351.jpg next to this file in your profile repo root -->
-<table cellspacing="0" cellpadding="0" border="0" width="100%">
+<table cellspacing="0" cellpadding="0" border="1" bordercolor="#30363d" width="100%" bgcolor="#161b22">
 <tr>
 <td align="center" bgcolor="#0d1117">
 
-<p align="center">
+<table cellspacing="0" cellpadding="18" border="0" width="100%">
+<tr><td align="center">
+
 <img src="./15351.jpg" width="640" alt="" />
-</p>
+
+</td></tr>
+</table>
 
 </td>
 </tr>
 <tr>
 <td bgcolor="#161b22">
 
-<table cellspacing="0" cellpadding="20" border="1" bordercolor="#30363d" width="100%" bgcolor="#161b22">
-<tr>
-<td>
+<table cellspacing="0" cellpadding="20" border="0" width="100%">
+<tr><td>
 
 <p align="center">
 <code><b>brandonks05</b></code>
@@ -62,8 +65,7 @@ oauth 2.0 · unix · git
   <a href="https://YOUR_PORTFOLIO_URL">portfolio</a>
 </p>
 
-</td>
-</tr>
+</td></tr>
 </table>
 
 </td>
