@@ -1,5 +1,7 @@
 <!-- put 15351.jpg next to this file in your profile repo root -->
-<table cellspacing="0" cellpadding="0" border="1" bordercolor="#30363d" width="100%" bgcolor="#161b22">
+<div align="center">
+
+<table cellspacing="0" cellpadding="0" border="1" bordercolor="#30363d" width="680" bgcolor="#161b22">
 <tr>
 <td align="center" bgcolor="#0d1117">
 
@@ -62,7 +64,7 @@ oauth 2.0 · unix · git
 </table>
 
 <p align="center">
-  <a href="https://branodonnlee.com">portfolio</a>
+  <a href="https://YOUR_PORTFOLIO_URL">portfolio</a>
 </p>
 
 </td></tr>
@@ -71,3 +73,5 @@ oauth 2.0 · unix · git
 </td>
 </tr>
 </table>
+
+</div>
