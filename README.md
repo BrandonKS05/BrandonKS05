@@ -3,7 +3,7 @@
 <tr>
 <td valign="middle" width="300">
 
-<img src="./15351.png" width="280" alt="" />
+<img src="./15351.jpg" width="280" alt="" />
 
 </td>
 <td valign="top">
