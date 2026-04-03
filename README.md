@@ -1,41 +1,30 @@
 <!-- put 15351.jpg next to this file in your profile repo root -->
-<table cellspacing="0" cellpadding="0" border="0" bgcolor="#0d1117" width="100%">
+<table cellspacing="0" cellpadding="0" border="0" width="100%">
 <tr>
 <td align="center" bgcolor="#0d1117">
 
-<table cellspacing="0" cellpadding="18" border="0"><tr><td align="center">
-
-<img src="./15351.jpg" width="74%" alt="" />
-
-</td></tr></table>
+<p align="center">
+<img src="./15351.jpg" width="640" alt="" />
+</p>
 
 </td>
 </tr>
 <tr>
 <td bgcolor="#161b22">
 
-<table cellspacing="0" cellpadding="24" border="1" bordercolor="#30363d" width="100%" bgcolor="#161b22">
+<table cellspacing="0" cellpadding="20" border="1" bordercolor="#30363d" width="100%" bgcolor="#161b22">
 <tr>
 <td>
 
-<div align="center">
+<p align="center">
+<code><b>brandonks05</b></code>
+</p>
 
-<h2><code>brandonks05</code></h2>
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=15&duration=3200&pause=2200&color=8B949E&center=true&vCenter=true&width=460&height=22&lines=full-stack+%C2%B7+systems+%C2%B7+always+shipping;react+%C2%B7+spring+%C2%B7+python+%C2%B7+typescript;always+building+%C2%B7+always+learning" alt="" />
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3500&pause=2800&color=8B949E&center=true&vCenter=true&width=520&lines=full-stack+%C2%B7+systems+%C2%B7+always+shipping" alt="tagline" />
-
-<br /><br />
-
-<sub><b>stack</b></sub>
-<br /><br />
-
-<img src="https://skillicons.dev/icons?i=python,java,cpp,javascript,typescript,c,go,html,css,react,nextjs,angular,nodejs,express,spring,tailwind,flask&perline=8" alt="languages & frameworks" />
-<br /><br />
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,redis,mysql,sqlite,firebase,supabase,docker,azure,vercel,nginx,git&perline=8" alt="databases & tools" />
-
-</div>
-
-<br />
+<p align="center"><sub>stack</sub></p>
 
 <table cellspacing="0" cellpadding="0" border="0" width="100%">
 <tr>
@@ -70,7 +59,7 @@ oauth 2.0 · unix · git
 </table>
 
 <p align="center">
-  <a href="https://YOUR_PORTFOLIO_URL"><b>portfolio</b></a>
+  <a href="https://YOUR_PORTFOLIO_URL">portfolio</a>
 </p>
 
 </td>
