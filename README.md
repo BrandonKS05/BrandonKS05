@@ -1,15 +1,15 @@
-# brandon lee
+<table>
+<tr>
+<td><img src="https://raw.githubusercontent.com/BrandonKS05/BrandonKS05/main/15351.jpg" width="300"/></td>
+<td>
 
-cs + math @ vanderbilt '27
+languages: python, java, c++, javascript, typescript, c, go, html/css, sql
+frameworks: react, next.js, angular, node.js, express, spring boot, tailwindcss, flask, discord.py
+databases: mongodb, postgresql, redis, mysql, sqlite, firebase, supabase
+tools: azure, docker, vercel, nginx, oauth 2.0, unix, git
 
-## languages
-python · java · c++ · javascript · typescript · c · go · html/css · sql
+[portfolio](https://brandonnlee.com)
 
-## frameworks & libraries
-react · next.js · node.js · express · spring boot · tailwindcss · flask · angular · discord.py
-
-## databases & infra
-mongodb · postgresql · redis · mysql · sqlite · firebase · supabase
-
-## tools & platforms
-azure · docker · vercel · nginx · oauth 2.0 · unix · git
+</td>
+</tr>
+</table>
