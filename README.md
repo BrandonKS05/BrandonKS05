@@ -64,7 +64,7 @@ oauth 2.0 · unix · git
 </table>
 
 <p align="center">
-  <a href="https://YOUR_PORTFOLIO_URL">portfolio</a>
+  <a href="https://brandonnlee.com">portfolio</a>
 </p>
 
 </td></tr>
